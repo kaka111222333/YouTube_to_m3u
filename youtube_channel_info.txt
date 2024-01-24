@@ -2,6 +2,10 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
+
+中天 | 中天新闻 | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/watch?v=oIgbl7t0S_w&ab_channel=%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96
+
 Ekattor TV Live | Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
 https://www.youtube.com/channel/UC0ThmWmb7WQATrrDMLQph7Q/live
 
