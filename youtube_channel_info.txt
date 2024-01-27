@@ -3,27 +3,27 @@
 
 
 
-中天新闻 | 台湾 | |
+中天新闻 | 台湾 | https://live.fanmingming.com/tv/中天新闻台.png |
 https://www.youtube.com/watch?v=oIgbl7t0S_w&ab_channel=%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96
-中天新闻2 | 台湾 | |
+中天新闻2 | 台湾 | https://live.fanmingming.com/tv/中天新闻台.png |
 https://www.youtube.com/watch?v=WPfPjbOLNfE&ab_channel=%E4%B8%AD%E5%A4%A9%E6%B7%B1%E5%96%89%E5%9A%A8
-TVBS新闻 | 台湾 | |
+TVBS新闻 | 台湾 | https://live.fanmingming.com/tv/TVBS.png |
 https://www.youtube.com/watch?v=m_dhMSvUCIc&ab_channel=TVBSNEWS
-民视新闻 | 台湾 | |
+民视新闻 | 台湾 | https://live.fanmingming.com/tv/FTVNews.png |
 https://www.youtube.com/watch?v=ylYJSBUgaMA&ab_channel=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E7%B6%B2FormosaTVNewsnetwork
-台视新闻 | 台湾 | |
+台视新闻 | 台湾 | https://live.fanmingming.com/tv/台视新闻.png |
 https://www.youtube.com/watch?v=xL0ch83RAK8&ab_channel=%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9ETTVNEWS
-中视新闻 | 台湾 | |
+中视新闻 | 台湾 | https://live.fanmingming.com/tv/中视新闻台.png |
 https://www.youtube.com/watch?v=TCnaIE_SAtM&ab_channel=%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9EHD%E7%9B%B4%E6%92%AD%E9%A0%BB%E9%81%93%EF%BD%9CTaiwanCTVnewsHDLive
-东森新闻 | 台湾 | |
+东森新闻 | 台湾 | https://live.fanmingming.com/tv/EBCNews.png |
 https://www.youtube.com/watch?v=2dfAzcDf8Zg&ab_channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9ECH51
-三立新闻+ | 台湾 | |
+三立新闻+ | 台湾 | https://live.fanmingming.com/tv/SETZonghe.png |
 https://www.youtube.com/watch?v=oZdzzvxTfUY&ab_channel=%E4%B8%89%E7%AB%8BLIVE%E6%96%B0%E8%81%9E
-寰宇新闻 | 台湾 | |
+寰宇新闻 | 台湾 | https://live.fanmingming.com/tv/GlobalNews.png |
 https://www.youtube.com/watch?v=vOue3tgccd0&ab_channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E9%A0%BB%E9%81%93
-公视新闻 | 台湾 | |
+公视新闻 | 台湾 |  https://live.fanmingming.com/tv/PublicTV.png |
 https://www.youtube.com/watch?v=quwqlazU-c8&ab_channel=%E5%85%AC%E8%A6%96%E6%96%B0%E8%81%9E%E7%B6%B2
-镜新闻 | 台湾 | |
+镜新闻 | 台湾 |  https://live.fanmingming.com/tv/{频道名称}.png |
 https://www.youtube.com/watch?v=5n0y6b0Q25o&ab_channel=%E9%8F%A1%E6%96%B0%E8%81%9E
 
 TVBS | 台湾 | |
