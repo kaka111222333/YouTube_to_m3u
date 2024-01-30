@@ -1,15 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
-
-
-
-
-
-
-
-
-
-
 中天新闻 | 台湾 | https://kaka111222333.github.io/TWTV/CTI2.png |
 https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2 | 台湾 | https://kaka111222333.github.io/TWTV/CTI5.png |
