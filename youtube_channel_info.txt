@@ -4,10 +4,6 @@
 https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2 | 台湾 | https://kaka111222333.github.io/TWTV/CTI5.png |
 https://www.youtube.com/watch?v=WPfPjbOLNfE
-TVBS新闻台 | 台湾 | https://kaka111222333.github.io/TWTV/TVBS1.png |
-https://www.youtube.com/watch?v=2mCSYvcfhtc
-TVBS | 台湾 | https://kaka111222333.github.io/TWTV/TVBS.png |
-https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS新闻 | 台湾 | https://kaka111222333.github.io/TWTV/TVBS1.png |
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 民视新闻 | 台湾 | https://kaka111222333.github.io/TWTV/FTV1.png |
@@ -18,10 +14,6 @@ https://www.youtube.com/watch?v=xL0ch83RAK8
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 东森新闻 | 台湾 | https://kaka111222333.github.io/TWTV/EBC6.png |
 https://www.youtube.com/watch?v=2dfAzcDf8Zg
-东森财经新闻 | 台湾 | https://kaka111222333.github.io/TWTV/EBC7.png |
-https://www.youtube.com/watch?v=_WnEdD8vdeo
-三立新闻 | 台湾 | https://kaka111222333.github.io/TWTV/SET3.png |
-https://www.youtube.com/watch?v=FoBfXvlOR6I
 三立新闻+ | 台湾 | https://kaka111222333.github.io/TWTV/SET2.png |
 https://www.youtube.com/watch?v=oZdzzvxTfUY
 寰宇新闻 | 台湾 | https://kaka111222333.github.io/TWTV/Global2.png |
@@ -30,24 +22,40 @@ https://www.youtube.com/watch?v=vOue3tgccd0
 https://www.youtube.com/watch?v=quwqlazU-c8
 镜新闻 | 台湾 |  https://kaka111222333.github.io/TWTV/CTI5.png |
 https://www.youtube.com/watch?v=5n0y6b0Q25o
+
+
 华视新闻 | 台湾 | https://kaka111222333.github.io/TWTV/CTS1.png |
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
-
-Taiwan CTV News | 台湾 | |
-https://www.youtube.com/watch?v=NHTD_g1LYOM
-Taiwan Formosa Live News | 台湾 | |
-https://www.youtube.com/watch?v=XxJKnDLYZz4
-Taiwan EBC | 台湾 | |
-https://www.youtube.com/watch?v=R2iMq5LKXco
-Taiwan EBC Financial | 台湾 | |
-https://www.youtube.com/watch?v=ABn_ccXn_jc
-CTITV Taiwan News | 台湾 | |
-https://www.youtube.com/watch?v=_QbRXRnHMVY
+TVBS新闻台 | 台湾 | https://kaka111222333.github.io/TWTV/TVBS1.png |
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS | 台湾 | https://kaka111222333.github.io/TWTV/TVBS.png |
+https://www.youtube.com/watch?v=YvdcZ_jpLXE
+东森财经新闻 | 台湾 | https://kaka111222333.github.io/TWTV/EBC7.png |
+https://www.youtube.com/watch?v=_WnEdD8vdeo
+三立新闻 | 台湾 | https://kaka111222333.github.io/TWTV/SET3.png |
+https://www.youtube.com/watch?v=FoBfXvlOR6I
 
 
 
-BabyFirst| 风景 | |
+BabyFirst| International | |
 https://www.youtube.com/watch?v=PzsTlxtwowE
+NASA Live | International | |
+https://www.youtube.com/watch?v=xRPjKQtRXR8
+NASA | International | |
+https://www.youtube.com/watch?v=21X5lGlDOfg
+NASA Media| International | |
+https://www.youtube.com/watch?v=nA9UZF-SZoQ
+Space Station| International | |
+https://www.youtube.com/watch?v=0FBiyFpV__g
+极光| International | |
+https://www.youtube.com/watch?v=60lno6Bq-9U
+大熊秃鹰| International | |
+https://www.youtube.com/watch?v=B4-L2nfGcuE
+布朗维尔的鹿| International | |
+https://www.youtube.com/watch?v=pl9vvtrIC9o
+
+
+
 earthTV| 风景 | |
 https://www.youtube.com/watch?v=buAV1t5-23w
 阿里山| 风景 | |
@@ -84,25 +92,6 @@ https://www.youtube.com/watch?v=5YDXZ1aiR5Y
 https://www.youtube.com/watch?v=tu_gsIkNt-w
 花蓮六十石山| 风景| |
 https://www.youtube.com/watch?v=DliL9uMtPrI
-
-
-NASA Live | International | |
-https://www.youtube.com/watch?v=xRPjKQtRXR8
-NASA | International | |
-https://www.youtube.com/watch?v=21X5lGlDOfg
-NASA Media| International | |
-https://www.youtube.com/watch?v=nA9UZF-SZoQ
-Space Station| International | |
-https://www.youtube.com/watch?v=0FBiyFpV__g
-极光| International | |
-https://www.youtube.com/watch?v=60lno6Bq-9U
-大熊秃鹰| International | |
-https://www.youtube.com/watch?v=B4-L2nfGcuE
-布朗维尔的鹿| International | |
-https://www.youtube.com/watch?v=pl9vvtrIC9o
-
-
-
 
 
 
