@@ -69,7 +69,5 @@ def grab(url):
             break
         else:
             tuner += 5
-    print(f'{ch_name},{link[start : end]}')
-
-    print(f"/n/n{link[start : end]}")
+    print(f",{link[start : end]}")
 
