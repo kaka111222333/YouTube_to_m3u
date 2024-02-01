@@ -80,6 +80,10 @@ CCTV央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 CCTV高尔夫网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 CCTV电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 
+'''
+
+
+WS = r'''
 📺  卫视,#genre#
 山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -167,6 +171,9 @@ LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001440/ind
 中国国际教育2台：http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 中国国际教育3台：http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 
+'''
+
+FH = r'''
 🌏  凤凰,#genre#
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -244,7 +251,7 @@ TW = r'''
 🌏  台湾,#genre#
 '''
 
-SD = r'''
+QT = r'''
 📺  山东,#genre#
 
 山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -460,8 +467,10 @@ def grab(url):
 
 
 print(CCTV)
+print(WS)
+print(FH)
 print(TW)
-print(SD)
+print(QT)
 #s = requests.Session()
 with open('../youtube_channel_info.txt') as f:
     for line in f:
