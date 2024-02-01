@@ -1,7 +1,7 @@
 #! /usr/bin/python3
 
 TW = r'''
-🌏台湾新闻,#genre#
+🌏  台湾,#genre#
 '''
 
 CCTV = r'''
