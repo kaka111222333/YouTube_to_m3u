@@ -1,6 +1,6 @@
 #! /usr/bin/python3
 
-banner = r'''
+CCTV = r'''
 📺 CCTV,#genre#
 CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
@@ -240,11 +240,11 @@ Sochi TV,http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 
 '''
 
-banner1 = r'''
+TW = r'''
 🌏  台湾,#genre#
 '''
 
-banner2 = r'''
+SD = r'''
 📺  山东,#genre#
 
 山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -459,8 +459,9 @@ def grab(url):
     print(f"{ch_name},{link[start : end]}")
 
 
-print(banner)
-print(banner1)
+print(CCTV)
+print(TW)
+print(SD)
 #s = requests.Session()
 with open('../youtube_channel_info.txt') as f:
     for line in f:
