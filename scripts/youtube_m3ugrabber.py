@@ -47,8 +47,6 @@ def grab(url):
             break
         else:
             tuner += 5
-    line = line.split('|')
-    ch_name = line[0].strip()    
     print(f'/n{ch_name}')
     print(f",{link[start : end]}")
 
