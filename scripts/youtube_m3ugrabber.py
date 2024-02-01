@@ -461,11 +461,12 @@ with open('../youtube_channel_info.txt') as f:
             tvg_id = line[3].strip()
         else:
             grab(line)
-
-print(LAST)
             
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
     os.system('rm watch*')
 
+
+
+print(LAST)
 
