@@ -17,6 +17,29 @@ CCTV-4 中文国际,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909
 import requests
 import os
 import sys
+print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
+print(banner)
+#s = requests.Session()
+with open('../youtube_channel_info.txt') as f:
+    for line in f:
+        line = line.strip()
+        if not line or line.startswith('~~'):
+            continue
+        if not line.startswith('https:'):
+            line = line.split('|')
+            ch_name = line[0].strip()
+            grp_title = line[1].strip().title()
+            tvg_logo = line[2].strip()
+            tvg_id = line[3].strip()
+            print(f'{ch_name}')
+        else:
+            grab(line)
+            
+if 'temp.txt' in os.listdir():
+    os.system('rm temp.txt')
+    os.system('rm watch*')
+
+
 
 windows = False
 if 'win' in sys.platform:
@@ -46,26 +69,7 @@ def grab(url):
             break
         else:
             tuner += 5
-    print(f",{link[start : end]}")
+    print(f'{ch_name},{link[start : end]}')
 
-print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
-print(banner)
-#s = requests.Session()
-with open('../youtube_channel_info.txt') as f:
-    for line in f:
-        line = line.strip()
-        if not line or line.startswith('~~'):
-            continue
-        if not line.startswith('https:'):
-            line = line.split('|')
-            ch_name = line[0].strip()
-            grp_title = line[1].strip().title()
-            tvg_logo = line[2].strip()
-            tvg_id = line[3].strip()
-            print(f'{ch_name}')
-        else:
-            grab(line)
-            
-if 'temp.txt' in os.listdir():
-    os.system('rm temp.txt')
-    os.system('rm watch*')
+    print(f"/n/n{link[start : end]}")
+
