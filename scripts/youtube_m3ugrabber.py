@@ -63,7 +63,7 @@ with open('../youtube_channel_info.txt') as f:
             grp_title = line[1].strip().title()
             tvg_logo = line[2].strip()
             tvg_id = line[3].strip()
-            print(f'/n{ch_name}')
+            print(f'dell{ch_name}')
         else:
             grab(line)
             
