@@ -4,6 +4,11 @@ TW = r'''
 🌏  台湾,#genre#
 '''
 
+LAST = r'''
+🌏  last,#genre#
+CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
+'''
+
 CCTV = r'''
 📺 CCTV,#genre#
 CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
@@ -456,6 +461,8 @@ with open('../youtube_channel_info.txt') as f:
             tvg_id = line[3].strip()
         else:
             grab(line)
+
+print(LAST)
             
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
