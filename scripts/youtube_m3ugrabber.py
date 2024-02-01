@@ -19,27 +19,27 @@ import os
 import sys
 
 windows = False
-if 'win' 在 sys.platform:
+if 'win' in sys.platform:
     windows = True
 
 def grab(url):
     response = requests.get(url, timeout=15).text
-    if '.m3u8' not 在 response:
+    if '.m3u8' not in response:
         #response = requests.get(url).text
-        if '.m3u8' not 在 response:
+        if '.m3u8' not in response:
             if windows:
-                print('https://0.m3u')
+                print('0')
                 return
             #os.system(f'wget {url} -O temp.txt')
             os.system(f'curl "{url}" > temp.txt')
             response = ''.join(open('temp.txt').readlines())
-            if '.m3u8' not 在 response:
-                print('https://0.m3u')
+            if '.m3u8' not in response:
+                print('0')
                 return
     end = response.find('.m3u8') + 5
     tuner = 100
     while True:
-        if 'https://' 在 response[end-tuner : end]:
+        if 'https://' in response[end-tuner : end]:
             link = response[end-tuner : end]
             start = link.find('https://')
             end = link.find('.m3u8') + 5
@@ -52,7 +52,7 @@ print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/late
 print(banner)
 #s = requests.Session()
 with open('../youtube_channel_info.txt') as f:
-    for line 在 f:
+    for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
             continue
@@ -62,7 +62,7 @@ with open('../youtube_channel_info.txt') as f:
             grp_title = line[1].strip().title()
             tvg_logo = line[2].strip()
             tvg_id = line[3].strip()
-            print(f'{ch_name}',)
+            print(f'{ch_name}')
         else:
             grab(line)
             
