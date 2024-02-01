@@ -29,13 +29,13 @@ def grab(url):
         #response = requests.get(url).text
         if '.m3u8' not in response:
             if windows:
-                print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
+                print('000000')
                 return
             #os.system(f'wget {url} -O temp.txt')
             os.system(f'curl "{url}" > temp.txt')
             response = ''.join(open('temp.txt').readlines())
             if '.m3u8' not in response:
-                print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
+                print('000000')
                 return
     end = response.find('.m3u8') + 5
     tuner = 100
@@ -47,9 +47,12 @@ def grab(url):
             break
         else:
             tuner += 5
+    line = line.split('|')
+    ch_name = line[0].strip()    
+    print(f'/n{ch_name}')
     print(f",{link[start : end]}")
 
-print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
+
 print(banner)
 #s = requests.Session()
 with open('../youtube_channel_info.txt') as f:
@@ -63,7 +66,7 @@ with open('../youtube_channel_info.txt') as f:
             grp_title = line[1].strip().title()
             tvg_logo = line[2].strip()
             tvg_id = line[3].strip()
-            print(f'{ch_name}')
+            print(f'/n{ch_name}')
         else:
             grab(line)
             
