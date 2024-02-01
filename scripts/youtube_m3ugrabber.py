@@ -14,9 +14,41 @@ CCTV-4 中文国际,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909
 
 '''
 
+
 import requests
 import os
 import sys
+
+windows = False
+if 'win' in sys.platform:
+    windows = True
+
+def grab(url):
+    response = requests.get(url, timeout=15).text
+    if '.m3u8' not in response:
+        #response = requests.get(url).text
+        if '.m3u8' not in response:
+            if windows:
+                print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
+                return
+            #os.system(f'wget {url} -O temp.txt')
+            os.system(f'curl "{url}" > temp.txt')
+            response = ''.join(open('temp.txt').readlines())
+            if '.m3u8' not in response:
+                print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
+                return
+    end = response.find('.m3u8') + 5
+    tuner = 100
+    while True:
+        if 'https://' in response[end-tuner : end]:
+            link = response[end-tuner : end]
+            start = link.find('https://')
+            end = link.find('.m3u8') + 5
+            break
+        else:
+            tuner += 5
+    print(f",{link[start : end]}")
+
 print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
 print(banner)
 #s = requests.Session()
@@ -38,36 +70,3 @@ with open('../youtube_channel_info.txt') as f:
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
     os.system('rm watch*')
-
-
-
-windows = False
-if 'win' in sys.platform:
-    windows = True
-
-def grab(url):
-    response = requests.get(url, timeout=15).text
-    if '.m3u8' not in response:
-        #response = requests.get(url).text
-        if '.m3u8' not in response:
-            if windows:
-                print('0')
-                return
-            #os.system(f'wget {url} -O temp.txt')
-            os.system(f'curl "{url}" > temp.txt')
-            response = ''.join(open('temp.txt').readlines())
-            if '.m3u8' not in response:
-                print('0')
-                return
-    end = response.find('.m3u8') + 5
-    tuner = 100
-    while True:
-        if 'https://' in response[end-tuner : end]:
-            link = response[end-tuner : end]
-            start = link.find('https://')
-            end = link.find('.m3u8') + 5
-            break
-        else:
-            tuner += 5
-    print(f",{link[start : end]}")
-
