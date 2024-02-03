@@ -1082,7 +1082,7 @@ def grab(url):
 
 
 
-print(CCTV)
+
 print(TW)
 #s = requests.Session()
 with open('../youtube_channel_info.txt') as f:
@@ -1104,6 +1104,6 @@ if 'temp.txt' in os.listdir():
     os.system('rm watch*')
 
 
-
+print(CCTV)
 print(LAST)
 
