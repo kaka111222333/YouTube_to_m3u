@@ -30,6 +30,8 @@ TVBS新闻台 | 台湾 | https://kaka111222333.github.io/TWTV/TVBS1.png |
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBS | 台湾 | https://kaka111222333.github.io/TWTV/TVBS.png |
 https://www.youtube.com/watch?v=YvdcZ_jpLXE
+东森新闻 | 台湾 | https://kaka111222333.github.io/TWTV/EBC7.png |
+https://www.youtube.com/watch?v=jojuBHV0Ei8
 东森财经新闻 | 台湾 | https://kaka111222333.github.io/TWTV/EBC7.png |
 https://www.youtube.com/watch?v=_WnEdD8vdeo
 三立新闻 | 台湾 | https://kaka111222333.github.io/TWTV/SET3.png |
@@ -37,8 +39,22 @@ https://www.youtube.com/watch?v=FoBfXvlOR6I
 
 
 
-BabyFirst| International | |
+SuperSimpleSongs| kids | |
+https://www.youtube.com/watch?v=qUTKP_luluY&ab_channel=SuperSimpleSongs-KidsSongs
+SuperSimpleSongs 2| kids | |
+https://www.youtube.com/watch?v=rl4buYZohcI&ab_channel=SuperSimpleSongs-KidsSongs
+BabyFirst| kids | |
 https://www.youtube.com/watch?v=PzsTlxtwowE
+ForKidsTV| kids | |
+https://www.youtube.com/watch?v=vk_sbMoaq98&ab_channel=ForKidsTV
+SunnyBunnies| kids | |
+https://www.youtube.com/watch?v=d-R-pBh9M5Q&ab_channel=SunnyBunnies
+Chicky| kids | |
+https://www.youtube.com/watch?v=LdKFOVb_oT0&ab_channel=Where%27sChicky%3F-CartooninEnglish
+
+
+
+
 NASA Live | International | |
 https://www.youtube.com/watch?v=xRPjKQtRXR8
 NASA | International | |
