@@ -1,7 +1,9 @@
 
 <h1 align="center"> YouTube_to_m3u </h1>
 
-[![M3U generator for YouTube](https://kaka234567.github.io/YouTube_to_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://kaka234567.github.io/YouTube_to_m3u/actions/workflows/m3u_Generator.yml)
+[![M3U generator for YouTube](https://kaka234567.github.io/YouTube_to_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/kaka234567/YouTube_to_m3u/actions/workflows/m3u_Generator.yml)
+
+
 
 `https://kaka234567.github.io/YouTube_to_m3u/youtube.m3u`
 
