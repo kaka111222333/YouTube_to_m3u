@@ -1,7 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
-日照综合| 日照 | |
-http://www.rzw.com.cn/folder247/folder2217
 中天新闻 | 台湾 | https://kaka111222333.github.io/TWTV/CTI2.png |
 https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2 | 台湾 | https://kaka111222333.github.io/TWTV/CTI5.png |
@@ -126,10 +124,9 @@ https://www.youtube.com/watch?v=2ISB1tCAk_8
 
 CCTV-4 | 其他 | |
 https://www.youtube.com/watch?v=bEZYrBMYNNg
-
 24音乐 | 其他 | |
 https://www.youtube.com/watch?v=ZxluW--lZpk
-
 Aastha TV | 其他 | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
 https://www.youtube.com/@AasthaChannel/live
-
+日照综合| 日照 | |
+http://www.rzw.com.cn/folder247/folder2217
