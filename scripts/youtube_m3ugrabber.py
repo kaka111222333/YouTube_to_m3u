@@ -1,11 +1,21 @@
 #! /usr/bin/python3
 
 TW = r'''
-🌏  台湾,#genre#
+🌏  台湾
 '''
 
 
 CCTV = r'''
+
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+民视,rtmp://f13h.mine.nu/sat/tv051
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+MOMO综合,rtmp://f13h.mine.nu/sat/tv761
+
 📺 CCTV,#genre#
 CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
