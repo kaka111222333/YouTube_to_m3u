@@ -51,42 +51,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 
 
-东森幼幼| kids | |
-https://www.youtube.com/watch?v=6UHAm9rMZTo&ab_channel=YOYOTV
-SuperSimpleSongs| kids | |
-https://www.youtube.com/watch?v=tJDU8r3zL6g&ab_channel=SuperSimpleSongs-KidsSongs
-SuperSimpleSongs2| kids | |
-https://www.youtube.com/watch?v=8IMbNbZ8FMk&ab_channel=SuperSimpleSongs-KidsSongs
-BabyFirst| kids | |
-https://www.youtube.com/watch?v=L6ODYLKin38&ab_channel=BabyFirstLearnColors%2CABCs%2CRhymes%26More
-Peppa Pig| kids | |
-https://www.youtube.com/watch?v=uQl_QA9p5MY&ab_channel=PeppaPig-OfficialChannel
-ForKidsTV| kids | |
-https://www.youtube.com/watch?v=vk_sbMoaq98&ab_channel=ForKidsTV
-SunnyBunnies| kids | |
-https://www.youtube.com/watch?v=d-R-pBh9M5Q&ab_channel=SunnyBunnies
-Chicky| kids | |
-https://www.youtube.com/watch?v=LdKFOVb_oT0&ab_channel=Where%27sChicky%3F-CartooninEnglish
-
-
-
-
-NASA Live | International | |
-https://www.youtube.com/watch?v=xRPjKQtRXR8
-NASA | International | |
-https://www.youtube.com/watch?v=21X5lGlDOfg
-NASA Media| International | |
-https://www.youtube.com/watch?v=nA9UZF-SZoQ
-Space Station| International | |
-https://www.youtube.com/watch?v=0FBiyFpV__g
-极光| International | |
-https://www.youtube.com/watch?v=60lno6Bq-9U
-大熊秃鹰| International | |
-https://www.youtube.com/watch?v=B4-L2nfGcuE
-布朗维尔的鹿| International | |
-https://www.youtube.com/watch?v=pl9vvtrIC9o
-Africam Wildlife Stream| International | |
-https://www.youtube.com/watch?v=eZysNmy7dWI&ab_channel=Africam
 
 
 
@@ -131,6 +95,42 @@ https://www.youtube.com/watch?v=DliL9uMtPrI
 中島公園駅周辺| 风景| |
 https://www.youtube.com/watch?v=2ISB1tCAk_8
 
+
+
+
+NASA Live | International | |
+https://www.youtube.com/watch?v=xRPjKQtRXR8
+NASA | International | |
+https://www.youtube.com/watch?v=21X5lGlDOfg
+NASA Media| International | |
+https://www.youtube.com/watch?v=nA9UZF-SZoQ
+Space Station| International | |
+https://www.youtube.com/watch?v=0FBiyFpV__g
+极光| International | |
+https://www.youtube.com/watch?v=60lno6Bq-9U
+大熊秃鹰| International | |
+https://www.youtube.com/watch?v=B4-L2nfGcuE
+布朗维尔的鹿| International | |
+https://www.youtube.com/watch?v=pl9vvtrIC9o
+Africam Wildlife Stream| International | |
+https://www.youtube.com/watch?v=eZysNmy7dWI&ab_channel=Africam
+
+东森幼幼| kids | |
+https://www.youtube.com/watch?v=6UHAm9rMZTo&ab_channel=YOYOTV
+SuperSimpleSongs| kids | |
+https://www.youtube.com/watch?v=tJDU8r3zL6g&ab_channel=SuperSimpleSongs-KidsSongs
+SuperSimpleSongs2| kids | |
+https://www.youtube.com/watch?v=8IMbNbZ8FMk&ab_channel=SuperSimpleSongs-KidsSongs
+BabyFirst| kids | |
+https://www.youtube.com/watch?v=L6ODYLKin38&ab_channel=BabyFirstLearnColors%2CABCs%2CRhymes%26More
+Peppa Pig| kids | |
+https://www.youtube.com/watch?v=uQl_QA9p5MY&ab_channel=PeppaPig-OfficialChannel
+ForKidsTV| kids | |
+https://www.youtube.com/watch?v=vk_sbMoaq98&ab_channel=ForKidsTV
+SunnyBunnies| kids | |
+https://www.youtube.com/watch?v=d-R-pBh9M5Q&ab_channel=SunnyBunnies
+Chicky| kids | |
+https://www.youtube.com/watch?v=LdKFOVb_oT0&ab_channel=Where%27sChicky%3F-CartooninEnglish
 
 
 
