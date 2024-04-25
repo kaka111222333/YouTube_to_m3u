@@ -4,7 +4,7 @@ name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 on:
   push:
     paths:
-      - 'YouTube_to_m3u/**' # 监听 YouTube_to_m3u 文件夹的修改
+      - 'youtube.m3u' # 监听 youtube.m3u 文件的修改
 
     branches: ["main"]  # Runs on pushes targeting the default branch
 
