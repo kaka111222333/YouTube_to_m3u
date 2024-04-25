@@ -6,7 +6,11 @@ name: M3U generator
 on:
   schedule:
     - cron: '0 0/4 * * *'
-
+  
+  push:
+    paths:
+      - 'main/**' # 监听 main 文件夹的修改
+      
   pull_request:
     branches:
       - main
