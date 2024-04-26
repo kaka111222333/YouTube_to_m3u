@@ -1,7 +1,7 @@
 #! /usr/bin/python3
 
 TW = r'''
-🌏  台湾,#genre#
+🌏  台湾新闻,#genre#
 '''
 
 
@@ -124,62 +124,6 @@ CETV1,http://192.168.23.1:4000/udp/239.253.224.55:8000
 青岛QTV-2,http://221.0.78.198:2381/hls/20221/index.m3u8
 青岛QTV-3,http://221.0.78.198:2381/hls/20222/index.m3u8
 
-🌏  凤凰,#genre#
-
-爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-民视,rtmp://f13h.mine.nu/sat/tv051
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-MOMO综合,rtmp://f13h.mine.nu/sat/tv761
-
-法国时装,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
-法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-FashionTV,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-法国时装 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-俄罗斯时装,https://live-3.otcnet.ru/wfc-rus-master/index.m3u8
-世界时装,https://live-3.otcnet.ru/wfc-int-master/index.m3u8
-时装1,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
-环球时装,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-Sochi TV,http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛电视台2,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-美国航天NASA1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-美国航天NASA2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS新闻,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
-民视台湾台,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
-八大综合台,http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
-ELTA体育2台,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-东森电影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
-
-中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-中天亚洲台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
-东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-民视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-华视CTS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-
-
-
 
 
 📺  IPTV,#genre#
@@ -262,6 +206,22 @@ CGTN 中东,http://192.168.23.1:4000/udp/239.253.224.184:8000
 CGTN 俄语,http://192.168.23.1:4000/udp/239.253.224.185:8000
 CGTN 纪录,http://192.168.23.1:4000/udp/239.253.224.188:8000
 CGTN,http://192.168.23.1:4000/udp/239.253.224.189:8000
+
+
+🌏  台湾,#genre#
+中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天亚洲台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+民视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+华视CTS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+
+
 
 
 
