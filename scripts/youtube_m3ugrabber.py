@@ -1,11 +1,11 @@
 #! /usr/bin/python3
 
-TW = r'''
+TW2 = r'''
 🌏  台湾新闻,#genre#
 '''
 
 
-CCTV = r'''
+TW1 = r'''
 
 🌏  台湾,#genre#
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
@@ -29,12 +29,7 @@ TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 
 '''
 
-LAST = r'''
 
-
-
-
-'''
 
 
 
@@ -76,8 +71,8 @@ def grab(url):
 
 
 
-print(CCTV)
-print(TW)
+print(TW1)
+print(TW2)
 #s = requests.Session()
 with open('../youtube_channel_info.txt') as f:
     for line in f:
@@ -97,5 +92,5 @@ if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
     os.system('rm watch*')
 
-print(LAST)
+
 
