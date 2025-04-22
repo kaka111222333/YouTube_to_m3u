@@ -24,13 +24,21 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 华视CTS | 其他 | |
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 
+中天新闻 | 其他1 | |
+https://www.youtube.com/watch?v=cDzt8vxcNYc
+中天亚洲 | 其他1 | |
+https://www.youtube.com/watch?v=dKkyfjn8xq8
+三立新闻 | 其他1 | |
+https://www.youtube.com/watch?v=xCTVm5CYfHE
+
+
 
 中天新闻 | 台湾 | https://kaka111222333.github.io/TWTV/CTI2.png |
 https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2 | 台湾 | https://kaka111222333.github.io/TWTV/CTI5.png |
 https://www.youtube.com/watch?v=WPfPjbOLNfE
 TVBS新闻 | 台湾 | https://kaka111222333.github.io/TWTV/TVBS1.png |
-https://www.youtube.com/watch?v=m_dhMSvUCIc
+https://www.youtube.com/watch?v=m_dhMSvUCIc&ab_channel=TVBSNEWS
 民视新闻 | 台湾 | https://kaka111222333.github.io/TWTV/FTV1.png |
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 台视新闻 | 台湾 | https://kaka111222333.github.io/TWTV/TTV2.png |
