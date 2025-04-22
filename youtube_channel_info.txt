@@ -24,11 +24,11 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 华视CTS | 其他 | |
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 
-中天新闻 | 其他1 | |
+中天新闻 | 台湾1 | |
 https://www.youtube.com/watch?v=cDzt8vxcNYc
-中天亚洲 | 其他1 | |
+中天亚洲 | 台湾1 | |
 https://www.youtube.com/watch?v=dKkyfjn8xq8
-三立新闻 | 其他1 | |
+三立新闻 | 台湾1 | |
 https://www.youtube.com/watch?v=xCTVm5CYfHE
 
 
